@@ -15,5 +15,5 @@
 </FONT>
 </div>
 
-# GRÁFICA SIMULADOR DE ÓRBITAS PLANETARIAS
+# Gráfica Simulador de Órbitas Planetarias
 ![image](https://user-images.githubusercontent.com/45238389/117529936-24aedd80-afa0-11eb-8365-8f78b99a2c25.png)
