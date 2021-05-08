@@ -33,4 +33,4 @@ Al ejecutar 30 veces:
   * Promedio SpeedUp: 5.141
 
 ### Referencia:
-https://fiftyexamples.readthedocs.io/en/latest/gravity.html
+Kuchling A.M. (2012). https://fiftyexamples.readthedocs.io/en/latest/gravity.html
