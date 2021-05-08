@@ -4,6 +4,7 @@
     Autor: Luis Alejandro Vejarano Gutierrez
     Clase: Computación Paralela y Distribuida
     Universidad Sergio Arboleda 14/05/2021
+    Referencia: 2012, A.M. Kuchling https://fiftyexamples.readthedocs.io/en/latest/gravity.html
 '''
 cimport cython
 
